@@ -1,7 +1,7 @@
 [Readme](README)|[List](https://alexdoa.github.io/labAWSalex/list)
 ## Welcome to GitHub Pages
 
-https://gol.caracoltv.com/sites/default/files/styles/is_type_7/public/freddygrisalesseleccioncolombia150218afpe.jpg?itok=PWN6ogHK&c=9ca5747a7231c658c2ff4533bc5e3e23
+[color](https://gol.caracoltv.com/sites/default/files/styles/is_type_7/public/freddygrisalesseleccioncolombia150218afpe.jpg?itok=PWN6ogHK&c=9ca5747a7231c658c2ff4533bc5e3e23)
 
 You can use the [editor on GitHub](https://github.com/gaboq8/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
