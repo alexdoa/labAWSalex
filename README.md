@@ -1,4 +1,4 @@
-[Readme](/README)|[List](https://alexdoa.github.io/labAWSalex/list)
+[Readme](README)|[List](https://alexdoa.github.io/labAWSalex/list)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gaboq8/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
