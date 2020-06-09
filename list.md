@@ -3,4 +3,3 @@
 1. Alex
 2. Cami
 3. John
-4. Juanjo
